@@ -188,4 +188,16 @@ main .projects > .project .year {
   main .projects > .project p {
     font-size: 2.25rem;
   }
+
+  main .projects > .project2 {
+    margin-left: 11rem;
+  }
+
+  main .projects > .project3 {
+    margin-left: 16rem;
+  }
+
+  main .projects > .project4 {
+    margin-left: 6rem;
+  }
 }
